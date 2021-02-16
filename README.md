@@ -9,6 +9,12 @@ Stefferon Thallys is systems analysis and development student, aspiring programm
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ## 💻 Technologies & Tools
 
 <p align="center">
