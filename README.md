@@ -9,7 +9,7 @@ Stefferon Thallys is systems analysis and development student, aspiring programm
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-HTML5-E44D26?logo=html5&logoColor=white&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/-HTML5-F16529?logo=html5&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-CSS3-00BFFF?logo=css3&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&logo=javascript&logoColor=black&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white&style=plastic" height="25"/>
