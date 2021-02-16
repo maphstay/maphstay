@@ -7,8 +7,6 @@
 
 Stefferon Thallys is systems analysis and development student, aspiring programmer / Back-end developer, always in search of new knowledge.
 
-&nbsp;
-
 ## 💻 Technologies & Tools
 
 <p align="center">
