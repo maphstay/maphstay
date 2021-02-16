@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif?ssl=1" />
 
-Steffesron Thallys is systems analysis and development student, aspiring programmer / Back-end developer, always in search of new knowledge. Currently, lives in Rio Grande do Norte, Brazil.
+Stefferson Thallys is systems analysis and development student, aspiring programmer / Back-end developer, always in search of new knowledge. Currently, lives in Rio Grande do Norte, Brazil.
 
 &nbsp;
 
