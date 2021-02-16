@@ -7,6 +7,7 @@
 
 Stefferson Thallys is systems analysis and development student, aspiring programmer / Back-end developer, always in search of new knowledge. Currently, lives in Rio Grande do Norte, Brazil.
 
+<br/>
 &ensp;&nbsp;My CodeWars:<br/>
 <img src="https://www.codewars.com/users/maphstay/badges/large" height="35"/>
 
