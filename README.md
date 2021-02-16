@@ -1,12 +1,6 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=maphstay.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/maphstay?style=social)
 
-<p align='center'>
-
-<a href="https://www.linkedin.com/in/stefferson-thallys-6309851a2/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
-</p>
-
 ## Bio
 
 Stefferon Thallys is systems analysis and development student, aspiring programmer / Back-end developer, always in search of new knowledge.
