@@ -28,6 +28,4 @@ Stefferon Thallys is systems analysis and development student, aspiring programm
 
 ## 🎯 Let's Keep in Touch and Follow me 
 
-<p align = "center">
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefferson-thallys-6309851a2/)
-</p>
