@@ -9,9 +9,8 @@ Stefferson Thallys is systems analysis and development student, aspiring program
 
 &nbsp;
 
-<img src="https://www.codewars.com/users/maphstay/badges/large"/>
-
-&nbsp;
+My CodeWars:
+<img src="https://www.codewars.com/users/maphstay/badges/large" height="50"/>
 
 ## 💻 Technologies & Tools
 
