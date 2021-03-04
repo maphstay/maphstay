@@ -31,7 +31,7 @@ Stefferson Thallys is systems analysis and development student, aspiring program
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&show_icons=true&locale=en&layout=compact&theme=tokyonight">
 </p>
 
 ## 🎯 Let's Keep in Touch and Follow me 
