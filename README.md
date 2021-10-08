@@ -26,6 +26,8 @@ Stefferson Thallys is systems analysis and development student, aspiring program
 <img src="https://img.shields.io/badge/-MongoDB-421a06?&logo=mongodb&logoColor=green&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Swagger-32CD32?&logo=swagger&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?&logo=github&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/-GitLab-5B009D?&logo=gitlab&style=flat&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/-BitBucket-F5F5F5?&logo=bitbucket&textColor=blue&logoColor=blue&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Git-FF4500?&logo=git&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="https://img.shields.io/badge/-Docker-29ABE2?&logo=docker&logoColor=white&style=flat&style=plastic" height="25"/>
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&style=plastic&logo=visual-studio-code&logoColor=ffffff" height="25"/>
