@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif?ssl=1" />
 
-Stefferson Thallys are a systems and development analyst, focused on Back-end development, always searching new knowledgements and challengers. Currently, lives in Lisbon, Portugal.
+Stefferson Thallys are a systems and development analyst, focused on Back-end development, always searching new knowledgements and challenges. Currently, lives in Lisbon, Portugal.
 
 <br/>
 &ensp;&nbsp;My CodeWars:<br/>
