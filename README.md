@@ -1,4 +1,4 @@
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=maphstay.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maphstay.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/maphstay?style=social)
 
 ## ✌️ Bio
