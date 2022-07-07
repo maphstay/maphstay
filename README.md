@@ -19,6 +19,7 @@ Stefferson Thallys are a systems and development analyst, focused on Back-end de
  <img align="center" alt="php" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img align="center" alt="nodejs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="nestjs" height="30" width="37" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
+ <img align="center" alt="jest" height="30" width="37" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
  <img align="center" alt="mysql" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img align="center" alt="postgresql" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="sqlite" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/300px-SQLite370.svg.png" />
