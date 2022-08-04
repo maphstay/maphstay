@@ -26,10 +26,10 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
  <img align="center" alt="mongodb" title="MongoDB" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img align="center" alt="jquery" title="JQuery" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
  <img align="center" alt="ajax" title="Ajax" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png" />
- <img align="center" alt="axios" title="Axios" height="30" width="37" src="https://github.com/axios.png" />
+ <img align="center" alt="axios" title="Axios" height="30" width="30" src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" />
  <img align="center" alt="swagger" title="Swagger" height="30" width="30" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" />
  <img align="center" alt="openapi" title="OpenAPI" height="30" width="30" src="https://crop-pal.org/oas3/static/img/OpenAPI-wt-opt.svg" />
- <img align="center" alt="docker" title="Docker" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+ <img align="center" alt="docker" title="Docker" height="30" width="37" src="https://www.ufrgs.br/gasp/wp-content/uploads/2021/04/docker-logo-7bcbbab5e4c7c9a94f7a32016ae8f827.png" />
   <img align="center" alt="html5" title="HTM5" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="css3" title="CSS3" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="bootstrap" title="BootStrap" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
