@@ -10,6 +10,10 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
 <br/>
 &ensp;&nbsp;My CodeWars:<br/>
 <img src="https://www.codewars.com/users/maphstay/badges/large" height="35"/>
+&ensp;&nbsp;My TryHackMe:<br/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/steffersonthally.png" alt="TryHackMe">
+
+
 
 ## 💻 Technologies & Tools
 
@@ -54,8 +58,6 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
 </div>
 
 ## 🎯 Contacts 
-<!-- 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefferson-thallys-6309851a2/) -->
 <div>
  <a href="https://www.linkedin.com/in/stefferson-thallys-6309851a2/"> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
  <a href="mailto:steffersonthallys@gmail.com"> <img height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"> </ a>
