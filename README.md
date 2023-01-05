@@ -34,6 +34,7 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
  <img align="center" alt="swagger" title="Swagger" height="30" width="30" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" />
  <img align="center" alt="openapi" title="OpenAPI" height="30" width="30" src="https://crop-pal.org/oas3/static/img/OpenAPI-wt-opt.svg" />
  <img align="center" alt="docker" title="Docker" height="30" width="37" src="https://www.ufrgs.br/gasp/wp-content/uploads/2021/04/docker-logo-7bcbbab5e4c7c9a94f7a32016ae8f827.png" />
+ <img align="center" alt="kubernetes" title="Kubernetes" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
   <img align="center" alt="html5" title="HTM5" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="css3" title="CSS3" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="bootstrap" title="BootStrap" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
