@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maphstay.visitor-badge)
+![visitors](https://komarev.com/ghpvc/?username=maphstay&label=Visitors&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/maphstay?style=social)
 
 ## ✌️ Bio
