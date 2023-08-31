@@ -5,7 +5,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif?ssl=1" />
 
-Stefferson Thallys are a systems development analyst, focus on Back-end development, always searching new skills and challenges. Currently, lives in Barreiro, Portugal.
+Hey! My name is Stefferson Thallys, I'm degree systems development analyst, focused in Back-end development, always looking for new skills and challenges. </br>
+I love travel and meet new places, cultures and people.
 
 <br/>
 &ensp;&nbsp;My TryHackMe:<br/>
@@ -56,7 +57,7 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
 
 <div align = "center">
   <a href="https://github.com/maphstay">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
   <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&layout=compact&langs_count=8&theme=tokyonight">
 </div>
 
