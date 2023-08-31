@@ -8,8 +8,6 @@
 Stefferson Thallys are a systems development analyst, focus on Back-end development, always searching new skills and challenges. Currently, lives in Barreiro, Portugal.
 
 <br/>
-&ensp;&nbsp;My CodeWars:<br/>
-<img src="https://www.codewars.com/users/maphstay/badges/large" height="35"/>
 &ensp;&nbsp;My TryHackMe:<br/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/steffersonthally.png" alt="TryHackMe">
 
@@ -21,6 +19,7 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
  <img align="center" alt="javascript" title="JavaScript" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="typescript" title="TypeScript" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="center" alt="php" title="PHP" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img align="center" alt="python" title="Python" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="nodejs" title="NodeJS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="nestjs" title="NestJS" height="30" width="37" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
  <img align="center" alt="jest" title="Jest" height="30" width="37" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
@@ -36,6 +35,7 @@ Stefferson Thallys are a systems development analyst, focus on Back-end developm
  <img align="center" alt="docker" title="Docker" height="30" width="37" src="https://www.ufrgs.br/gasp/wp-content/uploads/2021/04/docker-logo-7bcbbab5e4c7c9a94f7a32016ae8f827.png" />
  <img align="center" alt="kubernetes" title="Kubernetes" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
  <img align="center" alt="reactjs" title="ReactJs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img align="center" alt="vuejs" title="VueJs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img align="center" alt="html5" title="HTM5" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="css3" title="CSS3" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="bootstrap" title="BootStrap" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
