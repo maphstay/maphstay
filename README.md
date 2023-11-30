@@ -1,5 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/maphstay?style=social)
-
 ## ✌️ Bio
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif?ssl=1" />
