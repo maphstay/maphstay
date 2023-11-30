@@ -1,4 +1,3 @@
-![visitors](https://komarev.com/ghpvc/?username=maphstay&label=Visitors&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/maphstay?style=social)
 
 ## ✌️ Bio
@@ -57,8 +56,8 @@ I love travel and meet new places, cultures and people.
 
 <div align = "center">
   <a href="https://github.com/maphstay">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&layout=compact&langs_count=8&theme=tokyonight">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&layout=compact&langs_count=8&theme=tokyonight" alt="github stats" />
 </div>
 
 ## 🎯 Contacts 
@@ -66,3 +65,27 @@ I love travel and meet new places, cultures and people.
  <a href="https://www.linkedin.com/in/stefferson-thallys-6309851a2/"> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
  <a href="mailto:steffersonthallys@gmail.com"> <img height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"> </ a>
 </div>
+
+<div align="center">
+ <h3><b>Rewards</b></h3>
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="trophy repo"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=maphstay&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <h3><b>Visitors</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/maphstay/count.svg"
+    alt="visitors count" title="visitors counter"
+  />
+</p>
