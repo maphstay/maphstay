@@ -20,6 +20,7 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="python" title="Python" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
  <img align="center" alt="nodejs" title="NodeJS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="nestjs" title="NestJS" height="30" width="37" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
+ <img align="center" alt="graphql" title="GraphQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
  <img align="center" alt="jest" title="Jest" height="30" width="37" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
  <img align="center" alt="mysql" title="MySQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img align="center" alt="postgresql" title="PostgreSQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
