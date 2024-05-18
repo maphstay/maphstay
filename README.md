@@ -46,6 +46,7 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="bitbucket" title="BitBucket" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
  <img align="center" alt="vscode" title="VScode" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="center" alt="aws" title="Amazon Web Services" height="30" width="30" src="https://github.com/aws.png" />
+ <img align="center" alt="gcp" title="Google Cloud Provider" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
  <img align="center" alt="azure" title="Microsoft Azure" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
  <img align="center" alt="windows" title="Microsoft Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img align="center" alt="linux-ubuntu" title="Linux Ubuntu" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
