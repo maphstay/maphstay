@@ -36,6 +36,7 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="kubernetes" title="Kubernetes" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" />
  <img align="center" alt="reactjs" title="ReactJs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="vuejs" title="VueJs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ <img align="center" alt="nuxtjs" title="NuxtJs" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
  <img align="center" alt="html5" title="HTM5" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="css3" title="CSS3" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" alt="bootstrap" title="BootStrap" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
