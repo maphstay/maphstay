@@ -42,7 +42,7 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="bootstrap" title="BootStrap" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img align="center" alt="angularjs" title="AngularJS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  <img align="center" alt="git" title="Git" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="github" title="GitHub" height="30" width="30" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/06/tid011.jpg" />
+ <img align="center" alt="github" title="GitHub" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
  <img align="center" alt="gitlab" title="GitLab" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
  <img align="center" alt="bitbucket" title="BitBucket" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
  <img align="center" alt="vscode" title="VScode" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
