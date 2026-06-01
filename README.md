@@ -26,8 +26,6 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="postgresql" title="PostgreSQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" alt="sqlite" title="SQLite" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
  <img align="center" alt="mongodb" title="MongoDB" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
- <img align="center" alt="jquery" title="JQuery" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
- <img align="center" alt="ajax" title="Ajax" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png" />
  <img align="center" alt="axios" title="Axios" height="30" width="30" src="https://user-images.githubusercontent.com/43313420/105893220-1bae8780-6013-11eb-87be-eeac845ecc6f.png" />
  <img align="center" alt="socketio" title="SocketIO" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
  <img align="center" alt="swagger" title="Swagger" height="30" width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" />
