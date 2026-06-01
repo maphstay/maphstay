@@ -24,7 +24,7 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="jest" title="Jest" height="30" width="37" src="https://iconape.com/wp-content/files/dx/352988/png/jest-logo.png" />
  <img align="center" alt="mysql" title="MySQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  <img align="center" alt="postgresql" title="PostgreSQL" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
- <img align="center" alt="sqlite" title="SQLite" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/300px-SQLite370.svg.png" />
+ <img align="center" alt="sqlite" title="SQLite" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
  <img align="center" alt="mongodb" title="MongoDB" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
  <img align="center" alt="jquery" title="JQuery" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
  <img align="center" alt="ajax" title="Ajax" height="30" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png" />
