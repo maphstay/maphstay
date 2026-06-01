@@ -51,42 +51,10 @@ I love travel and meet new places, cultures and people.
  <img align="center" alt="azure" title="Microsoft Azure" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
  <img align="center" alt="windows" title="Microsoft Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
  <img align="center" alt="linux-ubuntu" title="Linux Ubuntu" height="30" width="30" src="https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" />
-  </div>
-
-## ⭐ GitHub Stats
-
-<div align = "center">
-  <a href="https://github.com/maphstay">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=maphstay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="github stats" />
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maphstay&layout=compact&langs_count=8&theme=tokyonight" alt="github stats" />
 </div>
 
 ## 🎯 Contacts 
 <div>
- <a href="https://www.linkedin.com/in/stefferson-thallys-6309851a2/"> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
- <a href="mailto:steffersonthallys@gmail.com"> <img height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"> </ a>
+ <a href="https://www.linkedin.com/in/stefferson-thallys/"> <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> </a>
+ <a href="mailto:steffersonthallys@gmail.com"> <img height="30" width="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/logo_loading.png"> </ a>
 </div>
-
-<div align="center">
- <h3><b>Rewards</b></h3>
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="trophy repo"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=maphstay&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <h3><b>Visitors</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/maphstay/count.svg"
-    alt="visitors count" title="visitors counter"
-  />
-</p>
