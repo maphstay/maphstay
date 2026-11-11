@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i2.wp.com/inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif?ssl=1" />
 
-Hey! My name is Stefferson Thallys, I'm degree systems development analyst, focused in Back-end development, always looking for new skills and challenges. </br>
+Hey! My name is Stefferson Fernandes, I'm degree systems development analyst, focused in Back-end development, always looking for new skills and challenges. </br>
 I love travel and meet new places, cultures and people.
 
 <br/>
